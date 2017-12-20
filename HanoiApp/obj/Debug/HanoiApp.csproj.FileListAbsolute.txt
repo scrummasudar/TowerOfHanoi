@@ -1,0 +1,10 @@
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\bin\Debug\HanoiApp.exe.config
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\bin\Debug\HanoiApp.exe
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\bin\Debug\HanoiApp.pdb
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.csprojResolveAssemblyReference.cache
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.TowerOfHanoiForm.resources
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.Properties.Resources.resources
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.csproj.GenerateResource.Cache
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.csproj.CoreCompileInputs.cache
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.exe
+C:\Users\masudakentaro\GitHub\HanoiApp\HanoiApp\obj\Debug\HanoiApp.pdb
